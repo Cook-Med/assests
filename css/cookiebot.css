@@ -1,0 +1,81 @@
+#CookiebotWidget{ font-family: "AvenirNextMedium",Arial,sans-serif !important; }
+
+#CookiebotWidget .CookiebotWidget-header{ border-bottom:0 !important; }
+#CookiebotWidget .CookiebotWidget-header strong{ font-size:1.2rem !important; }
+#CookiebotWidget .CookiebotWidget-consent-details button{ color:#7ea7cc !important; }
+#CookiebotWidget .CookiebotWidget-body .CookiebotWidget-consents-list li svg{ fill:#666666 !important; }
+#CookiebotWidget .CookiebotWidget-body .CookiebotWidget-consents-list li.CookiebotWidget-approved svg,
+#CookiebotWidget .CookiebotWidget-body .CookiebotWidget-consents-list li.CookiebotWidget-approved svg{ 
+  fill:#57AA89 !important;
+}
+
+#CookiebotWidget .CookiebotWidget-body .CookiebotWidget-consents-list li{
+  margin-bottom:8px !important;
+  color:#666666 !important;
+}
+
+#CookiebotWidget .CookiebotWidget-consent-details button svg{
+  fill:#7ea7cc !important;
+  width:10px !important;
+  margin-left:5px !important;
+}
+
+#CookiebotWidget .CookiebotWidget-consent-details .CookiebotWidget-consent-details-box{
+  background-color:#f4f5f6 !important;
+}
+
+#CookiebotWidget #CookiebotWidget-buttons #CookiebotWidget-btn-change{
+  background-color:#91a060 !important;
+  border-color:#91a060 !important;
+  text-transform:uppercase;
+  font-weight:normal;
+  font-size:0.825rem;
+  padding:10px 16px !important;
+  min-height:44px !important;
+  margin-bottom:0 !important;
+}
+
+#CookiebotWidget #CookiebotWidget-buttons #CookiebotWidget-btn-withdraw{
+  border-color:#A7A7A7 !important;
+  color:#666666 !important;
+  text-transform:uppercase;
+  font-weight:normal;
+  font-size:0.825rem;
+  padding:10px 16px !important;
+  min-height:44px !important;
+  margin-bottom:0 !important;
+}
+
+#CookiebotWidget{
+  min-height:58px !important;
+  min-width:58px !important;
+}
+
+#CookiebotWidget .CookiebotWidget-logo{
+  background:#3E748F url('data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAFAAAABQCAYAAACOEfKtAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAAXNSR0IArs4c6QAAAARnQU1BAACxjwv8YQUAAAVNSURBVHgB7ZyNceM2EIWfb1KAU0F4FZw7CNOBr4IoFdgdmB3YHcipwOlAlwqsDqirQEoFL9gDdNbI5uKHAH80/GYwHJsiCDwusMACJLCwsLCwsLAwDleYCCSvzUHSjTueszPpIMerq6sDJsJoAhrBKnO4NemLSbVJVcTlIuA3I+RXjMwvGBBnZXewgtVI52itozOIgEa42hz+NGmFfPyHCVBUQNdMH2Gbam72mADFBDTiPZjDPco1tQoTILsTcVb3AutNS3IwTuRXjExWAY140s89Id7qfnhVk76btHX/27mjWHLdcd1nI+IOl4A0WcaxMakx6caT772SR4NLIFK8jfPKoXnXSl4t5k6EeJsY4c7usVfyXWGuBIonlb9HD2ibupb/JAbVUZhC3wWI19J65b73uvbcZ4M5IaLQz2tOyzB5PXnut8YccOK1Q4rn7itWuPfcd8MMFl8UedJDi3dy73v6aTlVx2IKdhtQ+AoFob8pn5ZFBL9R8qr7PuyomQjtuKtSfhI9M3AVWMHGBYV/YWN9O+UacRo1wpGZzvbkb7lnBTsd/IwhkGbheeINIhHr4Mf9WuuxHOkPN+zPE4aCuuOInhHQOiPNKci5ypNHaHPuYoUhoN/6KkRCvzMSvEMTV7aWadQYAlrPmlzJjjx9QxIhKGhKa83PjKdEoPdd4W48haiQAAOJzPMoZBuYfa8pZmih1koBkkf/gZV8RSK0QxQZxrwo+ZefAnoqWiMR6gGCIw0yQL27KBeIoN58e8XiaIcirZZ/rspR7x8fUQrqU6fek3d2d/4vzBuI0IKyQo0SUO8/amTCCXnrUql5dKvURZp4/kUwKsMXzAz6x7Ii4go5UW42rwCmg2HTv3UWa6QeNJ1H8PIM+qePp0jre6T1A/HdCvWOt8FMod+hfETdld8npLHDTDHhq2/m8Bfi6LRATcAKF4oR8dkc/kC4ISQJmA3X96xP+h/pXx444nKks0QR8W+UgHr4fhWRT1fQVGjHFPGkjLfUI05117WaBWr7kIMqzbedWl2/l/Oje3Rjjf8g0RI1AXfKuQph1AG/LTb7iEQrQ6cxpVpghTDqzL8ryZeuE8ZCt13nPikX/XiloOP077g8qo7/b6Hg88JdF18zLBK9RRihv3sHbVhMuoHkNV5Xl67p2wGpUA9necPhDNuO0Seqfe7hWybMY6kHGhqkQn3aExRQoH8YUyEBdgdko7e7sWTYjhnC4XwLnO5PhGvYw/tSf7jBq23Ugyb9X6WgHg5vMBLUB/p1RD5a8+0/RqX+pEfbHcru/rWNKRP1SHWedWPqzbjBSND2r+3ZAw12ItStL98Gdk54jzKtJUoriZrR0L9RNN+iO/3DkXJLg4WgjTZ3Wh9z73OkfyG8/D6TTNC/UbRBbgKs0LsdbQrQ33TbYvWgf2lQbj6FyMqH0L8bQlihJPQvDRbbZN4HJ96rp+zlY5MMWxqUglaYCIHitYOVmWFLg8MVSC+rr887MqwTZNj2tJYjvrNB621DFtIbjEGgiMKaA1ojbZNdB5atwZgwfG9yy8Jbap1wDwzfvvGMKcBwSzwKeceMFpkgnNBgSkSKeGRDO7asEAmtc7hn2gs3DTKR+6MT4slkXlwhnuPrWJK+4/1ahIwtf3N510j7nIrk+dXtSpgmTH9nozQbzmCq+RP2e4MoJ70/OTAatNYofWPL4dmz57rLZOBbh9+yPJcj3EfQzg5OV+hyibbmUC8PnjDqFyxdhSXJvpQK4d/b2sF6a3k5ezumV53MJ0CP0C4KHZtf5Y4Hl3awb5mnb7dYWFhYWFhYuBD+B2OC9KDn3m1BAAAAAElFTkSuQmCC') center center / 40px 40px no-repeat !important;
+  position:relative;
+  z-index:2;
+  border-radius:50%;
+}
+
+#CookiebotWidget:not(.CookiebotWidget-open):after{
+  content:'Cookie Settings';
+  background:rgba(0,0,0,.95);
+  border-radius:30px;
+  display:block;
+  color:#fff;
+  font-weight:600;
+  padding:2px 20px 3px 14px;
+  position:absolute;
+  top:50%; right:100%;
+  transform:translateY(-50%) translateX(15px);
+  z-index:1;
+  white-space:nowrap;
+}
+
+#CookiebotWidget:not(.CookiebotWidget-open) button.CookiebotWidget-logo svg{ 
+  width:58px !important;
+  height:58px !important;
+}
+
+#CookiebotWidget .CookiebotWidget-logo svg{ opacity:0 !important; }
